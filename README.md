@@ -1,4 +1,4 @@
-# High Five — a SystemVerilog modulo-five combinational circuit
+# High Five: a SystemVerilog modulo-five combinational circuit
 
 High Five maps a four-bit sensor reading to its remainder modulo five, represented by three output bits. The project connects a numerical specification, Boolean design, an explicit HDL mapping, and a testbench that exposes signal changes for inspection.
 
